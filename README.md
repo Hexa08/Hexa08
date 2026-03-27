@@ -155,12 +155,16 @@ Intelligent expense tracker and personal finance SaaS. Real-time insights, smart
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hexa08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexa08&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hexa08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexa08&theme=tokyonight&hide_border=true&layout=compact"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=hexa08&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hexa08&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 ---
 
