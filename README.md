@@ -8,8 +8,7 @@
  ██║  ██║███████╗██╔╝╚██╗██║  ██║    ██║██║ ╚███║██║ ╚███║╚██████╔╝ ╚████╔╝ ██║  ██║   ██║   ███████╗
  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝╚═╝  ╚══╝╚═╝  ╚══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;OS+Engineer+%F0%9F%96%A5%EF%B8%8F;Founder+%40+Hexa+Innovate+Org;Building+ResumeForge+AI;Crafting+HydraLogOS+from+scratch" alt="Typing SVG" />
+![Profile Views](https://komarev.com/ghpvc/?username=hexa08&color=7c3aed&style=flat-square&label=Profile+Views)
 
 <br/>
 
