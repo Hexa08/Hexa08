@@ -156,15 +156,12 @@ Intelligent expense tracker and personal finance SaaS. Real-time insights, smart
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hexa08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexa08&theme=tokyonight&hide_border=true&layout=compact"/>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexa08&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hexa08&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=hexa08&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 
 ---
 
