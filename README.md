@@ -8,7 +8,7 @@
  ██║  ██║███████╗██╔╝╚██╗██║  ██║    ██║██║ ╚███║██║ ╚███║╚██████╔╝ ╚████╔╝ ██║  ██║   ██║   ███████╗
  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝╚═╝  ╚══╝╚═╝  ╚══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=hexa08&color=7c3aed&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;OS+Engineer+%F0%9F%96%A5%EF%B8%8F;Founder+%40+Hexa+Innovate+Org;Building+ResumeForge+AI;Crafting+HydraLogOS+from+scratch" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:madhab@tryresumeforge.com)
 [![ResumeForge AI](https://img.shields.io/badge/ResumeForge_AI-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://tryresumeforge.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=hexa08&icon=6&color=7)
+![Profile Views](https://komarev.com/ghpvc/?username=hexa08&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
 
